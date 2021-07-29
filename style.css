@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#showParagraph1 {
+    width: 101%;
+    margin: 10px;
+}
+
+#showParagraph2 {
+    width: 101%;
+    margin: 10px;
+}
